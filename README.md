@@ -1,1 +1,1 @@
-<img src="profile-loop-wide.gif" alt="Profile loop" width="100%">
+<img src="profile-loop-fill.gif" alt="Profile loop" width="100%">
