@@ -1,1 +1,1 @@
-![Demo](Perfectly_looping_video.gif)
+![Profile loop](profile-loop.gif)
